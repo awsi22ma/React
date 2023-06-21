@@ -1,0 +1,115 @@
+[
+        {
+            "id":1,
+            "image":"1.jpg",
+            "name":"ORIGINAL RECIPE BUCKET",
+            "content":"Det finns 5 olika delar av vår Original Recipe Bucket och de delar som du får i din Bucket är slumpartad.",
+            "price":"175 kr"
+        },
+
+       
+
+        {
+            "id":2,
+            "image":"2.jpg",
+            "name":"HOT WINGS BUCKET",
+            "content":"Vår Hot Wings Bucket är fylld med krispiga kycklingvingar som har marinerats och panerats i starkare kryddor.",
+            "price":"175 kr"
+        },
+
+
+        {
+            "id":3,
+            "image":"3.jpg",
+            "name":"SMALL MIX BUCKET",
+            "content":"Vår Small Mix Bucket innehåller en blandning av våra kycklingprodukter och passar därför bra för de som vill testa flera produkter på samma gång.Small Mix innehåller:Kyckling: 4 Crispy Strips, 4 Hot Wings, 10 Popcorn Chicken och 2 Original Recipe.Tillbehör: 2 drycker, 2 stora pommes och 2 dippsåser.",         
+            "price":"175 kr"
+        },
+
+        {
+            "id":4,
+            "image":"4.jpg",
+            "name":"BIG MIX BUCKET",
+            "content":"En Big Mix Bucket innehåller alla våra olika kycklingprodukter och passar ett större sällskap på fyra till fem personer. Big Mix innehåller: Kyckling: 4 Original Recipe, 8 Crispy Strips, 8 Hot Wings och 1 Large Popcorn ChickenTillbehör: 4 drycker, 4 dippsåser och 4 stora pommes.",
+            "price":"175 kr"
+        },
+
+        {
+            "id":5,
+            "image":"5.jpg",
+            "name":"BONELESS BUCKET",
+            "content":"En Boneless Bucket innehåller helt benfria kycklingbitar och är därför perfekt att dippa!Boneless Bucket innehåller:Kyckling: 30 Popcorn Chicken och 8 Crispy Strips,Tillbehör: 2 drycker, 2 dippsåser och 2 stora pommes.",
+            "price":"175 kr"
+        },
+
+    
+    
+        {
+            "id":6,
+            "image":"6.jpg",
+            "name":"LÄSK",
+            "content":"I våra läsktorn kan du välja mellan Coca Cola, Coca Cola Zero, Fanta, Fanta Exotic, Fanta Lemon, Sprite Zero, Monster och Capri-Sun.",
+            "price":"175 kr"
+        },
+
+
+        {
+            "id":7,
+            "image":"7.jpg",
+            "name":"VATTEN",
+            "content":"På KFC kan du släcka din törst med BonAqua’s vatten från vattenkällan i Hanveden, Södermanland. Välj mellan smakerna Naturell och Citron Lime.",
+            "price":"175 kr"
+        },
+
+
+
+        {
+            "id":8,
+            "image":"8.jpg",
+            "name":"MILKSHAKES",
+            "content":"Välj mellan smakerna Chocolate Hazelnut, Strawberry och Creamy Vanilla.",
+            "price":"175 kr"
+        },
+
+        {
+            "id":9,
+            "image":"9.jpg",
+            "name":"MJÖLK",
+            "content":"Hos oss kan du välja smakrik mellanmjölk från svenska gårdar.",
+            "price":"175 kr"
+        },
+
+        {
+            "id":10,
+            "image":"10.jpg",
+            "name":"KAFFE",
+            "content":"Vi serverar Kaffe, Cappuccino, Latte och Espresso!",
+            "price":"175 kr"
+        },
+    
+    
+    
+        {
+            "id":11,
+            "image":"11.jpg",
+            "name":"CHOCOLATE CHIP COOKIES",
+            "content":"En klassiker bland desserter! Välj mellan Chocolate Chip Cookie eller Double Chocolate Chip Cookie Chocolate Chip Cookie har smak av vanilj och innehåller bitar av belgisk mjölk- och mörk chocklad.Double Chololate Chip Cookie är gjord på en smördeg med smak av choklad och innehåller bitar av mjölk-,mörk- och vit choklad.",
+            "price":"175 kr"
+        },
+
+        {
+            "id":12,
+            "image":"13.jpg",
+            "name":"ULTIMATE ICE CREAM",
+            "content":"Den ultimata glassen! Krämig mjukglass toppad med grädde. Välj mellan Strawberry Cheesecake eller Chocolate Brownie.",
+            "price":"175 kr"
+        },
+
+        {
+            "id":13,
+            "image":"12.jpg",
+            "name":"MJUKGLASS I STRUT",
+            "content":"För den som föredrar den enklare desserten är vår krämiga mjukglass i strut ett utmärkt val!",
+            "price":"175 kr"
+        }
+    ]

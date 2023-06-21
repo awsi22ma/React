@@ -1,0 +1,65 @@
+/*om */
+#om .om-left{
+    float: none;
+    width: 100%;
+    
+}
+
+/* #om .om-right{
+    float: none;
+    width: 100%;
+    
+} */
+
+#om .om-right img{
+    display: block;
+    margin:auto;
+    margin-top: 2rem;
+    height: 250px;
+}
+
+#om .om1-right{
+    float: none;
+    width: 100%;
+    
+}
+
+#om .om1-left{
+    float: none;
+    width: 100%;
+    
+}
+#om .om1-left img{
+    display: block;
+    margin:auto;
+    margin-top: 2rem;
+    height: 250px;
+}
+@media(min-width:768px){
+    #om{
+        height: 350px;
+    }
+
+    #om .om-left{
+        float: left;
+        width: 50%;
+        min-height: 100%;
+    }
+    #om .om-right{
+        float: right;
+        width: 50%;
+        min-height: 100%;
+    }
+
+    #om .om1-left{
+        float: left;
+        width: 50%;
+        min-height: 100%;
+    }
+
+    #om .om1-right{
+        float: right;
+        width: 50%;
+        min-height: 100%;
+    }
+}

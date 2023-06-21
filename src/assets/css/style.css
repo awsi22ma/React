@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:ital,wght@1,600 & display=swap');
+
+:root {
+--primary-color: #b1a59e;
+--secondary-color:#1d140c;
+--text-color-light:#130c0c;
+--text-color-dark:#333;
+--navbar-color: rgb(59, 7, 7);
+--light-color:#793d3d;
+--secondary-text-color:#490808;
+
+ }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   font-family: 'Pangolin', sans-serif;
+   line-height: 2;
+   background-color: var(--primary-color);
+   color: var(--text-color-light);
+}
+
+
+h1,
+h2,
+h3 {
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+section p {
+  font-size: 0.9rem;
+  padding: 0.7rem;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background: #444;
+  color: #fff;
+  padding: 0.4rem;
+}
+
+.page {
+  margin: 3rem 1rem;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+}
+
+.page-title {
+  color: var(--secondary-color);
+  font-size: 1.8rem;
+  padding-bottom: 1rem;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #fff;
+  background: #000;
+  padding: 0.5rem 1.25rem;
+  border: none;
+  outline: none !important;
+  cursor: pointer;
+}
+
+.btn-light {
+  background: #d5d3d3;
+  color: #333;
+}
+
+.btn:hover {
+  background: #e65100;
+  
+}
+.card {
+  background: #daced5;
+  color: #603a3a;
+  height: 100%;
+  border: solid 1px rgb(12, 7, 7); 
+  border-radius: 5px;
+}
+
+.card img {
+  border-top-right-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+  width: 100%;
+}
+
+
+.card-body {
+  text-align: center;
+ 
+}

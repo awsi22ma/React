@@ -1,0 +1,50 @@
+
+.contact-info h1,p{
+    background: rgb(193, 181, 181) ;
+height: 120px;
+padding-top: 1,25rem;
+text-align: center;
+
+}
+/*kontakt*/
+.form-control{
+    padding: 1,88rem 0;
+    text-align: center; 
+}
+.form-control{
+    margin-bottom:1rem;
+}
+.form-control label{
+    display: block;
+}
+.form-control input,
+.form-control textarea{
+    width: 20%;
+    padding: 1rem;
+    border: solid 1px #ddd;
+}
+.form-control textarea{
+    height: 12,5rem;
+}
+.form-control input:focus,
+.form-control textarea:focus{
+    outline: none !important;
+    border:solid 1px #0b0601;
+}
+.btn {
+    text-align: center;
+}
+
+@media(min-width: 768px){
+    .contact-form {
+        max-width: 900px;
+        margin: auto
+    }
+    .contact-info {
+        max-width: 1500px;
+        
+        margin: auto;
+    }
+
+    
+}
